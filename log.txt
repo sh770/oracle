@@ -1,0 +1,8 @@
+
+> vite-starter@0.0.0 start /home/ubuntu/oracle
+> NODE_ENV=production node src/server/main.js
+
+9:45:02 PM [vite-express] Running in production mode
+9:45:02 PM [vite-express] Using Vite to resolve the config file
+9:45:02 PM [vite-express] Serving static files from /home/ubuntu/oracle/dist
+Server is listening on port 3000...
